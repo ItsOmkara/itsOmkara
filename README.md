@@ -13,8 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🔭 I’m currently working on:<br>VaultMate (Personal Finance Manager – Spring Boot + React) and School Management System (Angular 19 + Spring Boot).<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects in Java Spring Boot, React, and full-stack web development.<br><br>🤔 I’m looking for help with:<br>Exploring advanced DevOps practices (Docker, Kubernetes, CI/CD).<br><br>🌱 I’m currently learning:<br>AWS, Power BI, Oracle Cloud certifications, and scalable microservices.<br><br>💬 Ask me about:<br>Java, Spring Boot, REST APIs, React, MySQL, and problem-solving (DSA).<br><br>⚡ Fun fact:<br>I was captain of my college football team 🏆 and led a comeback win in the finals!
+# 💫 About Me  
+
+✨ **Currently Working On:**  
+🚀 VaultMate (*Personal Finance Manager – Spring Boot + React*)  
+📘 School Management System (*Angular 19 + Spring Boot*)  
+
+🤝 **Looking to Collaborate On:**  
+🔹 Open-source projects in *Java Spring Boot, React, and Full-Stack Development*.  
+
+🤔 **Seeking Help With:**  
+🔹 Advanced *DevOps practices (Docker, Kubernetes, CI/CD)*.  
+
+🌱 **Currently Learning:**  
+☁️ AWS & Oracle Cloud Certifications  
+📊 Power BI  
+⚙️ Scalable Microservices  
+
+💬 **Ask Me About:**  
+💻 *Java, Spring Boot, REST APIs, React, MySQL, and DSA Problem Solving*.  
+
+⚡ **Fun Fact:**  
+⚽ I was captain of my college football team 🏆 and led a **2-0 comeback win** in the finals! 🎉  
+
 
 
 ## 🌐 Socials:
