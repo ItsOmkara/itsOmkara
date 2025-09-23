@@ -33,8 +33,13 @@ Here are some ideas to get you started:
 
 
 ## 🏅 LeetCode Achievements
-[![LeetCode Stats](https://leetcard.jacoblin.cool/9403139921om?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/9403139921om/)  
-*(🔥 50 Days Streak Completed!)*   
+<!-- Rotating badge GIF (uploaded to repo assets) -->
+[![LeetCode 50 Days Streak](./assets/leetcode-50days-rotating.gif)](https://leetcode.com/9403139921om/)
+
+**Medal / Badge link:**  
+https://leetcode.com/medal/?showImg=0&id=8180754&isLevel=false
+
+*(🔥 50 Days Streak Completed! — click the image to open my LeetCode profile)*   
 
 
 ## 🌐 Socials:
