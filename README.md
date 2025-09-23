@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 💬 Ask me about:<br>
 &nbsp;&nbsp;💻 **Java, Spring Boot, REST APIs, React, MySQL, and DSA Problem-Solving**.<br><br>
 
-  
 
+## 🏅 LeetCode Achievements
+[![LeetCode Streak](https://assets.leetcode.com/users/your-leetcode-username/streak.svg)](https://leetcode.com/your-leetcode-username/)  
+*(🔥 50 Days Streak Completed!)*  
 
 
 ## 🌐 Socials:
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsOmkara&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
