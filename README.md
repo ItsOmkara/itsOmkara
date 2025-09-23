@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 
 ## 🏅 LeetCode Achievements
-[![LeetCode Streak](https://assets.leetcode.com/users/your-leetcode-username/streak.svg)](https://leetcode.com/your-leetcode-username/)  
-*(🔥 50 Days Streak Completed!)*  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/9403139921om?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/9403139921om/)  
+*(🔥 50 Days Streak Completed!)*   
 
 
 ## 🌐 Socials:
