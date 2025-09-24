@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;💻 **Java, Spring Boot, REST APIs, React, MySQL, and DSA Problem-Solving**.<br><br>
 
 
-## 🏅 LeetCode Achievements
+## 🏅 LeetCode
 <!-- Rotating badge GIF (uploaded to repo assets) -->
 [![LeetCode 50 Days Streak](./assets/leetcode-50days-rotating.gif)](https://leetcode.com/9403139921om/)
-![LeetCode 50 Days Rotating Batch](assets/leetcode-50days-batch-rotating.gif)
+
 
 
 **Medal / Badge link:**  
