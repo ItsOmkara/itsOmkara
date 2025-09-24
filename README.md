@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ## 🏅 LeetCode Achievements
 <!-- Rotating badge GIF (uploaded to repo assets) -->
 [![LeetCode 50 Days Streak](./assets/leetcode-50days-rotating.gif)](https://leetcode.com/9403139921om/)
+![LeetCode 50 Days Rotating Batch](assets/leetcode-50days-batch-rotating.gif)
+
 
 **Medal / Badge link:**  
 https://leetcode.com/medal/?showImg=0&id=8180754&isLevel=false
