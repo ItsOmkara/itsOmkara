@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 
 **Medal / Badge link:**  
 https://leetcode.com/medal/?showImg=0&id=8180754&isLevel=false
-
-*(🔥 50 Days Streak Completed! — click the image to open my LeetCode profile)*   
+ 
 
 
 ## 🌐 Socials:
