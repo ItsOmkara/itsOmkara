@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 ## 🏅 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/omkarbirajdar/" target="_blank">
     <img src="https://github.com/user-attachments/assets/fcd0211d-db4b-4c69-94f9-e3774eaf682c"
          alt="LeetCode 50 Days Badge"
          width="170" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/omkarbirajdar/" target="_blank">
     <img src="https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59"
          alt="LeetCode 100 Days Badge"
          width="170" />
