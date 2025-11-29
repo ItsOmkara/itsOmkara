@@ -39,7 +39,7 @@ Here are some ideas to get you started:
          alt="LeetCode 50 Days Badge"
          width="170" />
   </a>
-  <a href="https://leetcode.com/omkarbirajdar/" target="_blank">
+  <a href="https://leetcode.com/medal/?showImg=0&id=8793123&isLevel=false" target="_blank">
     <img src="https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59"
          alt="LeetCode 100 Days Badge"
          width="170" />
