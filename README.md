@@ -32,11 +32,19 @@ Here are some ideas to get you started:
 
 
 ## 🏅 LeetCode
-<!-- Rotating badge GIF (uploaded to repo assets) -->
 
-   ![github_50_days gif](https://github.com/user-attachments/assets/fcd0211d-db4b-4c69-94f9-e3774eaf682c) 
-   ![25100](https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59)
-
+<p align="center">
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fcd0211d-db4b-4c69-94f9-e3774eaf682c"
+         alt="LeetCode 50 Days Badge"
+         width="170" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59"
+         alt="LeetCode 100 Days Badge"
+         width="170" />
+  </a>
+</p>
 
 
 ## 🌐 Socials:
