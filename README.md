@@ -33,14 +33,10 @@ Here are some ideas to get you started:
 
 ## 🏅 LeetCode
 <!-- Rotating badge GIF (uploaded to repo assets) -->
-[![LeetCode 50 Days Streak](./assets/leetcode-50days-rotating.gif)](https://leetcode.com/9403139921om/)
 
+   ![github_50_days gif](https://github.com/user-attachments/assets/fcd0211d-db4b-4c69-94f9-e3774eaf682c) 
+   ![25100](https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59)
 
-
-**Medal / Badge link:**  
-https://leetcode.com/medal/?showImg=0&id=8180754&isLevel=false
-
-*(🔥 50 Days Streak Completed! — click the image to open my LeetCode profile)*   
 
 
 ## 🌐 Socials:
