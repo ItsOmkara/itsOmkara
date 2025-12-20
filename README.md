@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🔭 I’m currently working on:<br>
-&nbsp;&nbsp;🚀 **VaultMate** (Personal Finance Manager – Spring Boot + React)<br>
+&nbsp;&nbsp;🚀 **Resume Builder**<br>
 
 🤝 I’m looking to collaborate on:<br>
 &nbsp;&nbsp;🔹 Open-source projects in **Java Spring Boot**, **React**, and **Full-Stack Development**.<br><br>
