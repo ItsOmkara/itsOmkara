@@ -44,6 +44,12 @@ Here are some ideas to get you started:
          alt="LeetCode 100 Days Badge"
          width="170" />
   </a>
+    <a href="https://leetcode.com/medal/?showImg=0&id=8793123&isLevel=false" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/1.gif"
+         alt="LeetCode 100 Days Badge"
+         width="170" />
+  </a>
+  
 </p>
 
 
