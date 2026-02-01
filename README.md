@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;💻 **Java, JDBC, Spring Boot, REST APIs, React, MySQL, and DSA Problem-Solving**.<br><br>
 
 
-## 🏅 LeetCode
+## 🏅 LeetCode Achievements
 
 <p align="center">
   <a href="https://leetcode.com/omkarbirajdar/" target="_blank">
