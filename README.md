@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/itsOmkara/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=itsOmkara&style=flat-square&color=blue)
 <!--
 **ItsOmkara/itsOmkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
