@@ -1,4 +1,4 @@
-
+![Visitor Count](https://profile-counter.glitch.me/itsOmkara/count.svg)
 <!--
 **ItsOmkara/itsOmkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
