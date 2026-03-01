@@ -50,7 +50,7 @@ Here are some ideas to get you started:
          width="170" />
   </a>
   <a href="https://leetcode.com/medal/?showImg=0&id=9521134&isLevel=false">
-    <img src="https://assets.leetcode.com/static_assets/marketing/1.gif"
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif"
          alt="LeetCode 100 Days Badge"
          width="170" />
   </a>
