@@ -11,54 +11,37 @@
 </p>
 
 <!-- PROFILE VIEWS -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsOmkara&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+</p> -->
 
 ---
 
-## 👨‍💻 About Me
+## 🗂️ About Me
 
-```javascript
-const omkar = {
-  name: "Omkar Birajdar",
-  role: "Full-Stack Developer",
-  bio: "Engineer with a non-linear path. Building, learning, and ready to contribute.",
-
-  currentlyWorking: "Resume Builder",
-
-  collaborateOn: [
-    "Java Spring Boot",
-    "React",
-    "Full-Stack Development"
-  ],
-
-  learning: [
-    "AWS",
-    "Oracle Cloud Certifications",
-    "Scalable Microservices"
-  ],
-
-  askMeAbout: [
-    "Java",
-    "JDBC",
-    "Spring Boot",
-    "REST APIs",
-    "React",
-    "MySQL",
-    "DSA"
-  ],
-
-  devOps: [
-    "Docker",
-    "Kubernetes",
-    "CI/CD"
-  ],
-
-  funFact: "Contributed to checkstyle/checkstyle 🎉"
-};
-```
-
+📦 **Developer Profile: Omkar Birajdar**
+│
+├─ 🎭 **Role:** Full-Stack Developer
+├─ 📝 **Bio:** Engineer with a non-linear path. Building, learning, and ready to contribute.
+│
+├─ 🔭 **Currently Working On**
+│  └─ 🚀 Resume Builder
+│
+├─ 🤝 **Looking to Collaborate**
+│  └─ ☕ Java Spring Boot • ⚛️ React • 🌐 Full-Stack Development
+│
+├─ 🌱 **Currently Learning**
+│  ├─ ☁️ AWS & Oracle Cloud Certifications
+│  └─ 🛠️ Scalable Microservices
+│
+├─ 💬 **Ask Me About**
+│  └─ 💻 Java • JDBC • Spring Boot • REST APIs • React • MySQL • DSA
+│
+├─ ⚙️ **Exploring**
+│  └─ 🐳 Docker • ☸️ Kubernetes • 🔄 CI/CD
+│
+└─ 🎉 **Fun Fact**
+   └─ 🏗️ Contributed to **checkstyle/checkstyle**
 ---
 
 ## 🛠️ Tech Stack
