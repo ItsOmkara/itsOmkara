@@ -1,104 +1,162 @@
-![Profile Views](https://komarev.com/ghpvc/?username=itsOmkara&style=flat-square&color=blue)
-<!--
-**ItsOmkara/itsOmkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omkar%20Birajdar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CE4F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Open+Source+Contributor;1%2C118+Contributions+and+counting...;Always+Learning+New+Things" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on:<br>
-&nbsp;&nbsp;🚀 **Resume Builder**<br>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsOmkara&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-🤝 I’m looking to collaborate on:<br>
-&nbsp;&nbsp;🔹 Open-source projects in **Java Spring Boot**, **React**, and **Full-Stack Development**.<br><br>
+---
 
-🤔 I’m looking for help with:<br>
-&nbsp;&nbsp;⚙️ Exploring advanced **DevOps practices** (*Docker, Kubernetes, CI/CD*).<br><br>
+## 👨‍💻 About Me
 
-🌱 I’m currently learning:<br>
-&nbsp;&nbsp;☁️ **AWS**, **Oracle Cloud Certifications**<br>
-&nbsp;&nbsp;🛠️ Scalable **Microservices**<br><br>
+```javascript
+const omkar = {
+  name: "Omkar Birajdar",
+  role: "Full-Stack Developer",
+  bio: "Engineer with a non-linear path. Building, learning, and ready to contribute.",
 
-💬 Ask me about:<br>
-&nbsp;&nbsp;💻 **Java, JDBC, Spring Boot, REST APIs, React, MySQL, and DSA Problem-Solving**.<br><br>
+  currentlyWorking: "Resume Builder",
 
+  collaborateOn: [
+    "Java Spring Boot",
+    "React",
+    "Full-Stack Development"
+  ],
 
-## 🏅 LeetCode Achievements
+  learning: [
+    "AWS",
+    "Oracle Cloud Certifications",
+    "Scalable Microservices"
+  ],
+
+  askMeAbout: [
+    "Java",
+    "JDBC",
+    "Spring Boot",
+    "REST APIs",
+    "React",
+    "MySQL",
+    "DSA"
+  ],
+
+  devOps: [
+    "Docker",
+    "Kubernetes",
+    "CI/CD"
+  ],
+
+  funFact: "Contributed to checkstyle/checkstyle 🎉"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,cpp,nodejs,python,mysql,mongodb,postgres,docker,kubernetes,aws,git,github,postman,hibernate,bootstrap,netlify,vercel&perline=12" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsOmkara&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsOmkara&layout=compact&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsOmkara&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsOmkara&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsOmkara&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsOmkara/itsOmkara/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🏆 LeetCode Achievements
 
 <p align="center">
   <a href="https://leetcode.com/omkarbirajdar/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/fcd0211d-db4b-4c69-94f9-e3774eaf682c"
-         alt="LeetCode 50 Days Badge"
-         width="170" />
+    <img src="https://github.com/user-attachments/assets/fcd0211d-db4b-4c69-94f9-e3774eaf682c" width="140" />
   </a>
+
   <a href="https://leetcode.com/medal/?showImg=0&id=8793123&isLevel=false" target="_blank">
-    <img src="https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59"
-         alt="LeetCode 100 Days Badge"
-         width="170" />
+    <img src="https://github.com/user-attachments/assets/741889c6-a8b4-495a-b1a1-7b4e8de98d59" width="140" />
   </a>
-    <a href="https://leetcode.com/medal/?showImg=0&id=9326658&isLevel=false">
-    <img src="https://assets.leetcode.com/static_assets/marketing/1.gif"
-         alt="LeetCode 100 Days Badge"
-         width="170" />
+
+  <a href="https://leetcode.com/medal/?showImg=0&id=9326658&isLevel=false" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="140" />
   </a>
-  <a href="https://leetcode.com/medal/?showImg=0&id=9521134&isLevel=false">
-    <img src="https://assets.leetcode.com/static_assets/others/50.gif"
-         alt="LeetCode 100 Days Badge"
-         width="170" />
+
+  <a href="https://leetcode.com/medal/?showImg=0&id=9521134&isLevel=false" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="140" />
   </a>
+
+  <a href="https://leetcode.com/medal/?showImg=0&id=10056430&isLevel=false" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="140" />
   </a>
-  <a href="https://leetcode.com/medal/?showImg=0&id=10056430&isLevel=false">
-    <img src="https://assets.leetcode.com/static_assets/others/100.gif"
-         alt="LeetCode 100 Days Badge"
-         width="170" />
-  </a>
-  
 </p>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_omkar1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-birajdar-7a824b244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarbirajdar08@gmail.com) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://instagram.com/_omkar1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsOmkara&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsOmkara&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsOmkara&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://www.linkedin.com/in/omkar-birajdar-7a824b244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 📊 GitHub Contribution Breakdown
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsOmkara&theme=nightowl&utcOffset=5.5)
+  <a href="mailto:omkarbirajdar08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
+  <a href="https://leetcode.com/omkarbirajdar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <a href="https://my-portfolio-ashy-omega-73.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsOmkara&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+---
 
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</p>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
