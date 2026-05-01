@@ -17,31 +17,35 @@
 
 ---
 
-## 🗂️ About Me
+## 🎭 NOW PLAYING
 
-📦 **Developer Profile: Omkar Birajdar**
-│
-├─ 🎭 **Role:** Full-Stack Developer
-├─ 📝 **Bio:** Engineer with a non-linear path. Building, learning, and ready to contribute.
-│
-├─ 🔭 **Currently Working On**
-│  └─ 🚀 Resume Builder
-│
-├─ 🤝 **Looking to Collaborate**
-│  └─ ☕ Java Spring Boot • ⚛️ React • 🌐 Full-Stack Development
-│
-├─ 🌱 **Currently Learning**
-│  ├─ ☁️ AWS & Oracle Cloud Certifications
-│  └─ 🛠️ Scalable Microservices
-│
-├─ 💬 **Ask Me About**
-│  └─ 💻 Java • JDBC • Spring Boot • REST APIs • React • MySQL • DSA
-│
-├─ ⚙️ **Exploring**
-│  └─ 🐳 Docker • ☸️ Kubernetes • 🔄 CI/CD
-│
-└─ 🎉 **Fun Fact**
-   └─ 🏗️ Contributed to **checkstyle/checkstyle**
+╔═══════════════════════════════════════════╗
+║                                           ║
+║      ★  RESUME BUILDER  ★                 ║
+║                                           ║
+║         Starring                            ║
+║         Omkar Birajdar                      ║
+║         as Full-Stack Developer             ║
+║                                           ║
+╠═══════════════════════════════════════════╣
+║  CAST OF TECHNOLOGIES                     ║
+║                                           ║
+║  Lead ....... Java · Spring Boot · React    ║
+║  Supporting .. MySQL · JDBC · REST APIs    ║
+║  Ensemble .... DSA · HTML · CSS · JS      ║
+║                                           ║
+╠═══════════════════════════════════════════╣
+║  IN PRE-PRODUCTION                        ║
+║  AWS · Oracle Cloud · Microservices       ║
+║                                           ║
+╠═══════════════════════════════════════════╣
+║  CREW                                     ║
+║  Docker · Kubernetes · CI/CD              ║
+║                                           ║
+╚═══════════════════════════════════════════╝
+
+🏆 **Critics' Choice Award:** Merged PR in `checkstyle/checkstyle`
+🤝 **Open for Casting:** Collaboration invites accepted
 ---
 
 ## 🛠️ Tech Stack
