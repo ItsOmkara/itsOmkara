@@ -16,36 +16,35 @@
 </p> -->
 
 ---
+## 🧬 TECH EVOLUTION
 
-## 🎭 NOW PLAYING
+`Core Language`
+     │
+     ▼
+ `Java` ◄───────────────────────────────┐
+     │                                  │
+     ├──► `JDBC` ──► `Spring Boot` ──┤
+     │                    │            │
+     │                    ▼            │
+     │              `REST APIs`        │
+     │                    │            │
+     │◄───────────────────┘            │
+     │                                 │
+     ├──► `React` ◄────────────────────┘
+     │       │
+     │       ├──► `HTML/CSS/JS`
+     │       │
+     │       └──► `MySQL` ◄── `DSA`
+     │
+     ▼
+`DevOps Branch` ──► `Docker` ──► `Kubernetes` ──► `CI/CD`
+     │
+     ▼
+`Cloud Branch` ──► `AWS` · `Oracle Cloud` · `Microservices`
 
-╔═══════════════════════════════════════════╗
-║                                           ║
-║      ★  RESUME BUILDER  ★                 ║
-║                                           ║
-║         Starring                            ║
-║         Omkar Birajdar                      ║
-║         as Full-Stack Developer             ║
-║                                           ║
-╠═══════════════════════════════════════════╣
-║  CAST OF TECHNOLOGIES                     ║
-║                                           ║
-║  Lead ....... Java · Spring Boot · React    ║
-║  Supporting .. MySQL · JDBC · REST APIs    ║
-║  Ensemble .... DSA · HTML · CSS · JS      ║
-║                                           ║
-╠═══════════════════════════════════════════╣
-║  IN PRE-PRODUCTION                        ║
-║  AWS · Oracle Cloud · Microservices       ║
-║                                           ║
-╠═══════════════════════════════════════════╣
-║  CREW                                     ║
-║  Docker · Kubernetes · CI/CD              ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-
-🏆 **Critics' Choice Award:** Merged PR in `checkstyle/checkstyle`
-🤝 **Open for Casting:** Collaboration invites accepted
+> 🏆 **Mutation Unlocked:** Open Source Merge `checkstyle/checkstyle`
+> 🔭 **Current Specimen:** Resume Builder
+> 🤝 **Collaboration DNA:** Java · React · Full-Stack
 ---
 
 ## 🛠️ Tech Stack
