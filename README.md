@@ -16,45 +16,21 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const omkar = {
-  name: "Omkar Birajdar",
-  role: "Full-Stack Developer",
-  bio: "Engineer with a non-linear path. Building, learning, and ready to contribute.",
+🔭 I’m currently working on:
+  🚀 **Resume Builder**
 
-  currentlyWorking: "Resume Builder",
+🤝 I’m looking to collaborate on:
+  🔹 Open-source projects in **Java Spring Boot**, **React**, and **Full-Stack Development**
 
-  collaborateOn: [
-    "Java Spring Boot",
-    "React",
-    "Full-Stack Development"
-  ],
+🤔 I’m looking for help with:
+  ⚙️ Exploring advanced **DevOps practices** (Docker, Kubernetes, CI/CD)
 
-  learning: [
-    "AWS",
-    "Oracle Cloud Certifications",
-    "Scalable Microservices"
-  ],
+🌱 I’m currently learning:
+  ☁️ **AWS**, **Oracle Cloud Certifications**
+  🛠️ Scalable **Microservices**
 
-  askMeAbout: [
-    "Java",
-    "JDBC",
-    "Spring Boot",
-    "REST APIs",
-    "React",
-    "MySQL",
-    "DSA"
-  ],
-
-  devOps: [
-    "Docker",
-    "Kubernetes",
-    "CI/CD"
-  ],
-
-  funFact: "Contributed to checkstyle/checkstyle 🎉"
-};
-```
+💬 Ask me about:
+  💻 **Java, JDBC, Spring Boot, REST APIs, React, MySQL, and DSA Problem-Solving**
 
 ---
 
