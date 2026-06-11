@@ -105,9 +105,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/_omkar1" target="_blank">
+  <!-- <a href="https://instagram.com/_omkar1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+  </a> -->
 
   <a href="https://www.linkedin.com/in/omkar-birajdar-7a824b244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
