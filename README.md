@@ -20,7 +20,7 @@
   🚀 **Resume Builder**
 
 🤝 I’m looking to collaborate on:
-  🔹 Open-source projects in **Java Spring Boot**, **React**, and **Full-Stack Development**
+  🔹 Open-source projects in **Java Spring Boot**, and **Backend Development**
 
 🤔 I’m looking for help with:
   ⚙️ Exploring advanced **DevOps practices** (Docker, Kubernetes, CI/CD)
